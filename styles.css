@@ -73,11 +73,12 @@ footer {
 @media (max-width: 1028px) {
   h1 {
     font-size: 2rem;
+    margin-top: 70px;
   }
-  
+
   .drum {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     border: 5px solid #404b69;
     font-size: 0rem;
   }
@@ -88,5 +89,6 @@ footer {
 
   footer {
     font-size: 0.7rem;
+    margin-top: 220px;
   }
 }
